@@ -1,0 +1,41 @@
+.whychooseus {
+    background-image: url(images/bricks.jpg);
+    margin-bottom: 40px;
+}
+
+.work1 {
+    background-color: hsla(0, 2%, 78%, 0.481);
+}
+
+.work1 p {
+    color: #7f7f7f;
+}
+
+.works div {
+    margin-bottom: 20px;
+}
+
+.works {
+    margin-top: 60px;
+    align-items: center;
+    text-align: center;
+}
+
+.support {
+    border: 2px red solid;
+    padding-top: 20px;
+    margin-right: 2%;
+}
+
+.jumbotron {
+    background-image: url(background.png);
+}
+
+.display-4,
+.lead {
+    font-weight: 800;
+}
+
+h1 {
+    text-align: center;
+}

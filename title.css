@@ -1,0 +1,32 @@
+.head {
+    display: inline-block;
+    margin-left: 43%;
+    background-color: pink;
+    padding: 10px;
+    border-radius: 30px;
+    color: deeppink;
+    font-size: x-large;
+}
+
+.head1 {
+    display: inline-block;
+    margin-left: 40%;
+    background-color: red;
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+    font-size: x-large;
+}
+
+section p {
+    width: 70%;
+    margin: auto;
+}
+
+div p,
+div ol {
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

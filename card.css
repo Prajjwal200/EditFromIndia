@@ -1,0 +1,58 @@
+.slider {
+    margin-top: 60px;
+}
+
+.slide {
+    display: flex;
+    align-items: center;
+    background-color: rgb(212, 212, 212);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.slide a {
+    color: black;
+    background-color: white;
+    width: 50%;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.slide p {
+    padding-bottom: 20px;
+}
+
+.slide h5 {
+    padding-top: 10px;
+}
+
+.slide img {
+    padding-top: 20px;
+}
+
+.slide p {
+    width: 80%;
+    margin: auto;
+}
+
+.slide img {
+    width: 100px;
+    height: 100px;
+}
+
+.card-video {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+
+}
+
+.card h5,
+.card p {
+    text-align: center;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
